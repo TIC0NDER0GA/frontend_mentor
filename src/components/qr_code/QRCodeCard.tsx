@@ -8,9 +8,9 @@ let QRCodeCard = () => {
   <div className="flex flex-col w-[220px] rounded-[12px] p-[8px] font-[Outfit] bg-[#ffffff]">
     <img className="rounded-[10px] w-full" src={qr_code} alt="QR Code" />    
     <div className="flex flex-col justify-center gap-y-[10px] p-[10px] text-center">
-      <p className="text-[#3b3f63] font-[700] text-[15px]">
+      <h1 className="text-[#3b3f63] font-[700] text-[15px]">
         Improve your front-end skills by building projects
-      </p>
+      </h1>
       <p className="text-[#6f7784] font-[400] text-[12px]">
         Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
       </p>
