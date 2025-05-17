@@ -1,4 +1,6 @@
 // tailwind.config.js
+import themeable from 'tailwindcss-themeable'
+
 export default {
   content: [
     "./index.html",
@@ -6,10 +8,7 @@ export default {
   ],
   theme: {
     extend: {
-       fontFamily: {
-        outfit: ['Outfit', 'sans-serif'],
-      },
     },
   },
-  plugins: [],
+  plugins: [themeable],
 }

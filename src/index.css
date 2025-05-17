@@ -1,1 +1,13 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+@theme {
+  --font-figtree: "Figtree", sans-serif;
+  --font-outfit: "Outfit", sans-serif;
+
+  --blog-yellow: #f4d04e;
+  --blog-white: #ffffff;
+  --blog-gray-500: #6b6b6b;
+  --blog-gray-950: #121212;
+
+  --blog-paragraph: 16px;
+}
