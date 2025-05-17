@@ -15,7 +15,7 @@ return (<div className='font-figtree bg-[var(--blog-yellow)] text-blog-paragraph
 <div className='w-[20.0rem] grid grid-cols-1 gap-[.5rem]'>
 
 
-<img className='rounded-[20px] mb-[.45rem]' src={blog_img}/>
+<img className='rounded-[20px] mb-[.45rem] ' alt='blog preview picture' src={blog_img}/>
 
 <div className='grid grid-cols-1 gap-[0.7rem]'>
 <h2 className='bg-[var(--blog-yellow)] justify-self-start py-[.35rem] px-[.7rem] font-bold rounded-[.2rem]'>Learning</h2>
@@ -28,7 +28,7 @@ return (<div className='font-figtree bg-[var(--blog-yellow)] text-blog-paragraph
 </div>
 
 <div className='flex flex-row items-center pb-[.5rem]'>
-<img className='w-[2.2rem]' src={prof_pic}/>
+<img className='w-[2.2rem]' alt='small profile picture' src={prof_pic}/>
 <h2 className='font-bold pl-[.2rem]'>Greg Hooper</h2>
 </div>
 
