@@ -19,7 +19,7 @@ let SocialLinksProfile = () => {
 
             <h3 className='pb-[1.6rem]'> "Front-end developer and avid reader."</h3>
 
-            <ul className='font-[600] [&_a]:bg-[var(--social-links-grey-700)] [&_a]:p-[.5rem] grid grid-cols-1 gap-[1.0rem] [&_a]:rounded-[0.25rem] [&_a]:py-[0.8rem] [&_a]:inline-block [&_a]:w-full w-[4.0] [&_a]:px-[6.0rem]  [&_a]:hover:bg-[var(--social-links-green)]  [&_a]:hover:text-[var(--social-links-grey-800)] [&_a]:transition-colors [&_a]:duration-300'>
+            <ul className='font-[600] [&_a]:bg-[var(--social-links-grey-700)] [&_a]:p-[.5rem] grid grid-cols-1 gap-[1.0rem] [&_a]:rounded-[0.25rem] [&_a]:py-[0.8rem] [&_a]:inline-block [&_a]:w-full  [&_a]:px-[6.0rem]  [&_a]:hover:bg-[var(--social-links-green)]  [&_a]:hover:text-[var(--social-links-grey-800)] [&_a]:transition-colors [&_a]:duration-300'>
             <li>
                 <a href="https://github.com" className="">
                 GitHub
