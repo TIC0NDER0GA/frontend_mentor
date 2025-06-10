@@ -1,0 +1,42 @@
+.h2-recipe {
+  @apply text-[var(--recipe-brown-800)] text-[1.7rem] font-[YoungSerif] font-[600] mb-[.7rem] mt-[1.8rem]
+}
+
+
+ol.list-decimal li::marker {
+    font-weight: 600;
+    color: var(--recipe-brown-800);
+    
+}
+
+ol.list-decimal li {
+    padding-left: 1.0rem;
+}
+
+ul.list-disc li {
+    padding-left: 1.0rem;
+}
+
+ol {
+    padding-left: 1.4rem;
+}
+
+
+
+
+td {
+    padding-bottom: .75rem;
+    padding-top: .75rem;
+}
+
+.units {
+    @apply font-[600] text-[var(--recipe-brown-800)]
+}
+
+.slight-border {
+    @apply border-b border-[var(--recipe-stone-150)]
+}
+
+.labels {
+    @apply pl-[1.7rem]
+}

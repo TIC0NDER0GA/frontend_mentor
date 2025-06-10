@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./solution/Screenshot_prof_links.png)
+![](./solution/Screenshot_recipe_page.png)
 
 ### Links
 
@@ -45,11 +45,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned the different keyowrds used for tailwind css since it was my first time using it. 
+I learned how to create different classes to use with tailwind. How to edit the list decorators for 
+custom list colors and spacing.
 
 ### Continued development
 
-Be able to come up with my own themes and components. Become more design oriented with colors and layouts. Remember the terms used for frontend markup and the different measurements other than px.
+Be able to come up with my own themes and components. Become more design oriented with colors and layouts. 
 
 
 
